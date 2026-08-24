@@ -1,2 +1,2 @@
 # slope-rider
-hopefully works
+hopefully works it took me a few hours to do
